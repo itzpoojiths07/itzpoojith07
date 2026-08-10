@@ -5,6 +5,57 @@
 <p>Credits: <a href="https://github.com/emrahsariboz">itzpoojiths07</a></p>
 <p>Last Edited on: 10/08/2026</p> 
 
+  <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+<!--
+**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h3 title="hehehe"> Hey 👋, I'm Poojith S!</h3>
+<a href="https://www.linkedin.com/in/poojith-s-954366425/">
+  <img align="left" alt="poojith's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
+<a href="https://www.instagram.com/iam_poojiths07/">
+  <img align="left" alt="Poojith's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+<img src="https://komarev.com/ghpvc/?username=itzpoojiths07&amp;color=blueviolet" align="left">
+<br>
+<br>
+<p>A <strong>Software Engineering Student</strong> 🚀 from banglore, karnataka.</p>
+ <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<p><strong>About Me!</strong></p>
+<ul>
+<li>👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.</li>
+<li>🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization.</li>
+<li>🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD</li>
+<li>💼 I’m pursuing a Bachelor’s degree in Computer Science.</li>
+<li>💬 Ask me about anything, I love to answer!</li>
+<li>📫 Email me at <a href="mailto:itzpoojiths07@gmail.com">itzpoojiths07@gmail.com</a>.</li>
+</ul>
+<p><strong>Languages and Tools:</strong></p>
+<p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></p>
+<p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code></p>
+<p><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=shades-of-purple&amp;icon_color=fad000" alt="Poojith's GitHub Stats">
+<p>⭐️ From <a href="https://github.com/itzpoojiths07">itzpoojiths07</a></p>
+<hr>
+<p>Credit: <a href="https://github.com/itzpoojiths07">itzpoojiths07</a></p> 
+
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
@@ -54,5 +105,5 @@
 
 --->
 <hr>
-<p><a href="https://github.com/henrymedeiros">itzpoojiths07</a>
+<p><a href="https://github.com/itzpoojiths07/">itzpoojiths07</a>
 Last Edited on: 10/08/2026 format.</p></div> 
