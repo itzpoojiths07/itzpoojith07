@@ -1,5 +1,5 @@
-  <h1 id="hi-this-is-emrah">Hi, this is emrah!</h1>
-<p>A multipotentialite research assistant who is currently working on Fog Computing and Blockchain scalability at NMSU. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging research problems.</p>
+  <h1 id="hi-this-is-Poojith S">Hi, this is Poojith S!</h1>
+<p>A Full stack development who is currently working on databases and ethical hacking. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging  problems.</p>
 <p><img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image"></p>
 <hr>
 <p>Credits: <a href="https://github.com/emrahsariboz">emrahsariboz</a></p>
